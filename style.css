@@ -1,0 +1,151 @@
+.header {
+    background: #1f2937 ;
+    color: white;
+    padding: 16px;
+}
+
+.higherheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 18px;
+}
+
+.list1 {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    list-style-type: none;
+}
+
+.lowerheaderinside {
+    display: flex;
+    margin-top: 96px;
+    margin-left: 126px;
+}
+
+.signupbutton {
+    display: flex;
+    background-color: blue ;
+    height: 24px;
+    width: 64px;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.headerlogo {
+    display: flex;
+    margin-top: 16px;
+    font-weight: 700;
+}
+
+.lowerheader {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 124px;
+    justify-content: space-between;
+}
+
+.dog {
+    width: 366px;
+    height: 288px;
+    border-radius: 24px;
+}
+
+.secondsection {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+.randominfo {
+   display: flex; 
+   justify-content: center;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   font-weight: 700;
+   font-size: 30px;
+}
+
+.imagelist {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 36px  ;
+}
+
+.otherdog {
+    height: 100px;
+    width:100px;
+    border-radius: 16px;
+    display: flex;
+    margin-bottom: 8px;
+    margin-left: 28px;
+}
+
+.undertext {
+    text-align: center;
+}
+
+.thirdsection {
+    background-color: #E5E7EB ;
+}
+
+.quote {
+    font-size: 30px;
+    padding: 100px;
+    padding-bottom: 0px;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    padding:100px;
+    padding-top: 0px;
+}
+
+.backsection {
+    padding: 100px;
+    color: #ffffff;
+}
+.callsection {
+    display: flex;
+    padding-top: 32px;
+    padding-left: 82px;
+    padding-bottom: 32px;
+    border-radius: 16px;
+    background-color: #3882f6;
+    justify-content: space-between;
+    padding-right: 82px;
+}
+
+.call {
+    font-weight: 700;
+    font-size: large;
+}
+
+.signupbutton2 {
+    display: flex;
+    margin-top: 4px;
+    height: 16px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    width: 78px;
+    justify-content: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-radius: 8px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-size: small;
+}
